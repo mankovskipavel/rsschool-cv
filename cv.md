@@ -1,6 +1,8 @@
+![ava] https://github.com/mankovskipavel/rsschool-cv/blob/gh-pages/ava.jpg
+
 #  **`Mankovski Pavel`**
   
-## CONTACTS 
+## Contacts 
 
 ## **Phone number** 
 📞 *+375-29-129-38-96*
@@ -10,7 +12,8 @@
 
 
 ## **introduce**
-**I'm wishing to finde new knowledges and experience. I'm not afraid to solve difficult problems**
+*I'm wishing to finde new knowledges and experience. I'm not afraid to solve difficult problems*
+
 
 ## **Skills**
 * *Java*
