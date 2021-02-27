@@ -1,13 +1,13 @@
-![ava] (https://github.com/mankovskipavel/rsschool-cv/blob/gh-pages/ava.jpg)
+![ava](./ava.jpg)
 
 #  **`Mankovski Pavel`**
   
 ## Contacts 
 
-## **Phone number** 
+**Phone number** 
 📞 *+375-29-129-38-96*
 
-## **E-mail** 
+**E-mail** 
 📧 *mankovskipavel@gmail.com*
 
 
