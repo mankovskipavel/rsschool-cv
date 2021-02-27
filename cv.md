@@ -12,7 +12,7 @@
 
 
 ## **introduce**
-*I'm wishing to finde new knowledges and experience. I'm not afraid to solve difficult problems*
+*I'm wishing to finde new knowledges and experience. I don't afraid to solve difficult problems*
 
 
 ## **Skills**
